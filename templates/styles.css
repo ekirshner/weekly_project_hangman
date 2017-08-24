@@ -1,0 +1,57 @@
+
+body { 
+    background-image: url("http://www.settlementperspectives.com/wp-content/uploads/Hangmans-Noose1.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-color: black;
+    color: lightsalmon;
+    margin: 5% 3%;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    position: relative;
+    bottom: 30px;
+    font-size: 50px;
+}
+
+h2 {
+    color: salmon;
+    font-size: 30px;
+}
+
+span {
+    color: navajowhite;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    color: salmon;
+    font-size: 20px;
+}
+
+#header {
+    text-align: center;
+}
+
+#answer {
+    font-size: 60px;
+    color: lightgoldenrodyellow; 
+    text-align: center;
+}
+
+#guessed {
+    font-size: 25px;
+    color: salmon;
+}
+
+#guessed-letter-alert {
+    color: lightcyan;
+}
+
+#guess-label {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
